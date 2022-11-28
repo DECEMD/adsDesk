@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "108795192806",
+    "firebase_url": "https://ads-desk-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ads-desk",
+    "storage_bucket": "ads-desk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108795192806:android:c8c056c668637ff5a2a227",
+        "android_client_info": {
+          "package_name": "com.example.adsdesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108795192806-vlkc6b2p24on57l5euuh3ipl7o4pkjb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adsdesk",
+            "certificate_hash": "f9ff5eed4319e6619bc9593da0cdb4abb1bade95"
+          }
+        },
+        {
+          "client_id": "108795192806-aioehu5eoeeh0a42654uqi57nll7gsf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvmPyUOXqQAbQ8Xczoc2uJR66O0BadnVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108795192806-aioehu5eoeeh0a42654uqi57nll7gsf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

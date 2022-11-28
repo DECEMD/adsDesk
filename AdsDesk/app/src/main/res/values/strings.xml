@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">AdsDesk</string>
+    <string name="ad_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_inter_id">ca-app-pub-3940256099942544/1033173712</string>
+    <!-- Menu drawer strings -->
+    <string name="ad_cat1">Объявления</string>
+    <string name="ad_my_ads">Мои объявления</string>
+    <string name="my_fav">Избранные</string>
+    <string name="diff">Разное</string>
+    <string name="ad_car">Машины</string>
+    <string name="ad_pc">Компьютеры</string>
+    <string name="ad_smartphone">Смартфоны</string>
+    <string name="ad_dm">Бытовая техника</string>
+    <string name="ad_cat2">Аккаунт</string>
+    <string name="ac_signup">Регистрация</string>
+    <string name="ac_sign_in">Вход</string>
+    <string name="ac_sign_out">Выход</string>
+    <string name="drawer_content_open">Открыто</string>
+    <string name="drawer_content_close">Закрыто</string>
+    <string name="not_reg">Войдите или зарегистрируйтесь</string>
+    <!-- Sign dialog strings -->
+    <string name="email_hint">Email</string>
+    <string name="email_reset_password_was_sent">Email reset password was sent</string>
+    <string name="dialog_reset_email_message">Для восстановления пароля укажите ваш email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in_action">Войти</string>
+    <string name="sign_up_action">Зарегистрироваться</string>
+    <string name="forget_password">Вспомнить пароль</string>
+    <string name="signup_error">Неудалось зарегистрироваться</string>
+    <string name="send_verification_email_error">Неудалось отправить email для подтверждения</string>
+    <string name="send_verification_done">На почту была отправлена ссылка для верификации аккаунта</string>
+    <!-- Sign dialog strings -->
+    <string name="link_done">Email успешно подключен к Google аккаунту</string>
+    <string name="enter_google">У вас есть аккаунт с таким Email адресом, войдите по нему.</string>
+    <!-- Edit Activity -->
+    <string name="select_country">Выберите страну</string>
+    <string name="country">Страна</string>
+    <string name="select_city">Выберите город</string>
+    <string name="city">Город</string>
+    <string name="index">Индекс</string>
+    <string name="tel">Телефон</string>
+    <string name="tel_number">Номер телефона</string>
+    <string name="select_category">Выберите категорию</string>
+    <string name="category">Категория</string>
+    <string name="title">Заголовок</string>
+    <string name="title_hint">Название объявления</string>
+    <string name="price">Цена</string>
+    <string name="price_hint">Укажите цену</string>
+    <string name="description">Описание</string>
+    <string name="description_hint">Описание</string>
+    <string name="with_send">С отправкой</string>
+    <string name="publish">Опубликовать</string>
+    <!-- Ad List Item -->
+    <string name="price_description">Цена:</string>
+    <!-- Delete or not dialog -->
+    <string name="tv_delete">Вы точно хотите удалить объявление?</string>
+
+</resources>
